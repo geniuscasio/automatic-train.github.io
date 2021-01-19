@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gender on Title</title>
-    <link>/gender/</link>
+    <link>/geniuscasio.github.io/automatic-train.github.io/gender/</link>
     <description>Recent content in Gender on Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 May 2020 10:34:35 -0500</lastBuildDate>
     
-	<atom:link href="/gender/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/geniuscasio.github.io/automatic-train.github.io/gender/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>female</title>
-      <link>/gender/female/</link>
+      <link>/geniuscasio.github.io/automatic-train.github.io/gender/female/</link>
       <pubDate>Mon, 25 May 2020 10:34:35 -0500</pubDate>
       
-      <guid>/gender/female/</guid>
+      <guid>/geniuscasio.github.io/automatic-train.github.io/gender/female/</guid>
       <description></description>
     </item>
     
     <item>
       <title>male</title>
-      <link>/gender/male/</link>
+      <link>/geniuscasio.github.io/automatic-train.github.io/gender/male/</link>
       <pubDate>Mon, 25 May 2020 10:34:35 -0500</pubDate>
       
-      <guid>/gender/male/</guid>
+      <guid>/geniuscasio.github.io/automatic-train.github.io/gender/male/</guid>
       <description></description>
     </item>
     
