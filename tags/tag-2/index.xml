@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag 2 on Title</title>
-    <link>/geniuscasio.github.io/automatic-train.github.io/tags/tag-2/</link>
+    <link>geniuscasio.github.io/automatic-train.github.io/tags/tag-2/</link>
     <description>Recent content in tag 2 on Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Jul 2018 01:37:01 -0500</lastBuildDate>
     
-	<atom:link href="/geniuscasio.github.io/automatic-train.github.io/tags/tag-2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="geniuscasio.github.io/automatic-train.github.io/tags/tag-2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Your First Post</title>
-      <link>/geniuscasio.github.io/automatic-train.github.io/posts/your-first-post/</link>
+      <link>geniuscasio.github.io/automatic-train.github.io/posts/your-first-post/</link>
       <pubDate>Wed, 04 Jul 2018 01:37:01 -0500</pubDate>
       
-      <guid>/geniuscasio.github.io/automatic-train.github.io/posts/your-first-post/</guid>
+      <guid>geniuscasio.github.io/automatic-train.github.io/posts/your-first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla nulla, dignissim in magna non, sagittis vestibulum tellus. Proin feugiat dui sit amet bibendum dignissim. Sed in ante nec mi pulvinar fermentum eget scelerisque ante. Praesent ut consequat orci. In at turpis suscipit, cursus est non, lobortis dolor. Vestibulum faucibus commodo semper. Aliquam ut mollis nibh.
 Proin sagittis cursus egestas. Proin lobortis tortor et commodo blandit. Suspendisse interdum tincidunt tempus. In lacinia fermentum lectus, eu posuere magna facilisis ut.</description>
     </item>
